@@ -61,7 +61,7 @@ display: flex;
 .main{
   width:1500px;
   height:480px;
-  background-color: #f56c6c;
+  background-color: #f05050;
 
 }
 .title{
@@ -70,15 +70,23 @@ display: flex;
 
 }
 .text{
-  background-color: rgb(215, 51, 143);
-  width: 500px;
+  width: 600px;
   height: 100px;
   text-align: center;
   margin: auto;
-  padding: 16px;
+  padding: 50px;
   font-size: 30px;
   box-sizing: border-box;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
 
 
+}
+.borderline{
+  margin: 20px auto;
 
+  width:30%;
+  display: inline-inline-block;
+  border-bottom: 3px solid #fff;
 }
