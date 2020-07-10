@@ -47,7 +47,7 @@ display: flex;
   box-sizing: border-box;;
 }
 .slide-container {
-  width:1500px;
+  width:100%;
   height:480px;
 }
 .slides{
@@ -59,7 +59,7 @@ display: flex;
 
 }
 .main{
-  width:1500px;
+
   height:480px;
   background-color: #f05050;
 
@@ -96,9 +96,23 @@ display: flex;
   background-color: #bee66a;
 }
 .manu{
-  width: 800px;
+  display: flex;
+  width: 1000px;
   height:100%;
   box-sizing: border-box;
   margin: auto;
+
+}
+.item{
   border: 1px solid rgb(162, 151, 230);
+  flex-grow: 1;
+  margin: 20px;
+  width: 200px;
+  box-sizing: border-box;
+}
+
+.item img{
+  width:100%;
+
+
 }
