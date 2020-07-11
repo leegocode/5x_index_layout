@@ -62,8 +62,14 @@ display: flex;
 
   height:480px;
   background-color: #f05050;
-
 }
+
+.main2{
+
+  height:660px;
+  background-color: #f05050;
+}
+
 .title{
    height:120px;
    background-color: rgb(227, 162, 162);
@@ -167,9 +173,6 @@ display: flex;
   height: 60%;
 }
 
-.classes_button{
-  flex-grow: 1;
-}
 
 .caption2{
   width:100%;
@@ -217,4 +220,19 @@ display: flex;
   padding: 2px;
   border-radius: 10%;
   background-color: rgb(226, 55, 55);
+}
+.inputarea{
+  height:70px;
+  margin:auto;
+  background-color: rgb(54, 167, 88);
+}
+.i{
+  display: block;
+  margin: 10px auto;
+  font-size: 20px;
+  background-color: #e7a5a5;
+  font-family: sans-serif;
+  border: none;
+  text-align: center;
+  padding: 20px;
 }
