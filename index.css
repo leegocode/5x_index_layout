@@ -65,8 +65,12 @@ display: flex;
 }
 
 .main2{
-
   height:660px;
+  background-color: #f05050;
+}
+
+.main3{
+  height:480px;
   background-color: #f05050;
 }
 
@@ -109,6 +113,39 @@ display: flex;
   margin: auto;
   background-color:rgb(86, 109, 238);
 }
+
+.two{
+  height:300px;
+}
+
+.circle{
+  display: block;
+  width:130px;
+  height:130px;
+  border-radius: 50%;
+  margin-top:80px;
+  margin-left:200px;
+  background-color: #a42727;
+}
+.recommand{
+  width: 400px;
+  height:80px;
+  display: ;
+  margin-left: 50px;
+  margin-top: 70px;
+  background-color: #4b2020;
+
+}
+
+.person{
+  height:30px;
+  display: block;
+  float: inherit;
+  background-color: #d4e648;
+  margin-top:40px;
+  line-height: 10px;
+}
+
 .item{
   border: 1px solid rgb(162, 151, 230);
   flex-grow: 1;
@@ -127,7 +164,6 @@ display: flex;
   margin: 3px auto;
   width:70%;
   height: 100%;
-
 
 }
 
