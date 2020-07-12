@@ -70,7 +70,8 @@ display: flex;
 }
 
 .main3{
-  height:480px;
+  border-bottom: 1px solid;
+  height:420px;
   background-color: #f05050;
 }
 
