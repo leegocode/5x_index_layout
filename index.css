@@ -90,7 +90,7 @@ top: 0;
 
 .footer{
   display: flex;
-  border-bottom: 1px solid;
+
   height:400px;
 
 
@@ -416,6 +416,7 @@ top: 0;
   background-color: rgb(111, 201, 108);
   height: 40px;
   margin-top: 10px;
+
   border-radius: 50%;
 }
 .messageto{
