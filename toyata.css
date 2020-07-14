@@ -142,9 +142,22 @@ strong{
   left: 80px;
   top:-60px;
   box-sizing: border-box;
-  padding: 10px;
+  padding: 2%;
 }
 
 .footer * {
   color: white;
+}
+
+.footer h1{
+  display: inline-block;
+  margin: 0;
+  font-size: 20px;
+}
+.borderline{
+  display: inline-block;
+  border-bottom: 2px solid;
+  width:67%;
+  margin-left: 2%;
+  margin-bottom: 0.5%;
 }
