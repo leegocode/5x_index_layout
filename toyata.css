@@ -1,0 +1,86 @@
+.first{
+  margin: auto;
+  max-width: 1200px;
+
+  border: 1px solid;
+}
+
+.second{
+  margin: auto;
+  max-width: 1200px;
+  height: auto;
+  border: 1px solid;
+}
+
+.third{
+  margin: auto;
+  max-width: 1200px;
+
+  height: 450px;
+  border: 1px solid;
+}
+
+
+.ad_01{
+  width:400px;
+  height:150px;
+  background-color: #bf9898;
+  position: relative;
+
+
+}
+
+
+.ad_02{
+  width:400px;
+  height:300px;
+  background-color: #000000;
+  position: relative;
+
+  top:0;
+  z-index: 1;
+}
+
+.car{
+  display: inline-block;
+  width:800px;
+  height:450px;
+  background-color: rgb(213, 67, 24);
+  position: relative;
+  top:-300px;
+  left:250px;
+
+}
+
+
+.behind{
+  width:500px;
+  height:250px;
+  background-color: rgba(148, 141, 139, 0.2);
+  position:absolute;
+  top:-130px;
+  right:-150px;
+  z-index: -6;
+}
+
+.sticky{
+  width:70px;
+  height:50px;
+  background-color:rgb(230, 114, 124);
+  position:absolute;
+  right:-20px;
+  top: 180px;
+
+}
+
+
+
+
+
+.footer{
+  background-color: #ffa2a2;
+  width:700px;
+  height:300px;
+  position: relative;
+  left: 80px;
+  top:-60px;
