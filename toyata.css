@@ -135,14 +135,14 @@ strong{
 }
 
 .footer{
-  background-color: rgba(67, 162, 240, 1);
+  background-color: rgba(5, 46, 80, 1);
   width:700px;
   height:300px;
   position: relative;
   left: 80px;
   top:-60px;
   box-sizing: border-box;
-  padding: 2%;
+  padding: 1%;
 }
 
 .footer * {
@@ -160,4 +160,24 @@ strong{
   width:67%;
   margin-left: 2%;
   margin-bottom: 0.5%;
+}
+.special{
+font-size: 16px;
+display: inline-block;
+padding: 4px;
+border-radius: 12px;
+background-color: #0b49bf;
+}
+.design1{
+  margin-top: 8px;
+
+}
+
+ul{
+  display: inline-block;
+
+  margin: 1px;
+  box-sizing: border-box;
+  padding-left: 26px;
+
 }
