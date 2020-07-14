@@ -41,6 +41,11 @@
 
 }
 
+.icon-play-circled:hover{
+  color:rgb(34, 145, 215);
+  font-size:120%;
+}
+
 .title{
   width: 70%;
   background-color:  #0b49bf;
@@ -70,8 +75,6 @@
 
 
 }
-
-
 
 
 .ad_02{
@@ -127,7 +130,7 @@ strong{
 .sticky{
   width:70px;
   height:50px;
-  background-color:rgb(230, 114, 124);
+  /* background-color:rgb(230, 114, 124); */
   position:absolute;
   right:-20px;
   top: 180px;
@@ -161,6 +164,9 @@ strong{
   margin-left: 2%;
   margin-bottom: 0.5%;
 }
+
+
+
 .special{
 font-size: 16px;
 display: inline-block;
